@@ -1,1 +1,0 @@
-# table-configurator-three-js-r3F-tutorial-starter
