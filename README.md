@@ -1,4 +1,4 @@
-# table-configurator-three-js-r3F-tutorial-starter
+# Table configurator R3F tutorial starter
 
 This is the starting project to build the Table Configurator sing React Three Fiber
 
